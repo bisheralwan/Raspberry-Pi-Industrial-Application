@@ -26,9 +26,6 @@ try:
 except KeyboardInterrupt: #stops try if (ctrl + c) is pressed
     pass
 
-
-6.2 final code
-
 import RPi.GPIO as GPIO
 import lcd_i2c
 import time
